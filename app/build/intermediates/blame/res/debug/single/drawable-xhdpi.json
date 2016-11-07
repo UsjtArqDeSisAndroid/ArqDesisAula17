@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transfer_button.png",
+        "source": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\src\\main\\res\\drawable-xhdpi\\transfer_button.png"
+    },
+    {
+        "merged": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\extract_button.png",
+        "source": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\src\\main\\res\\drawable-xhdpi\\extract_button.png"
+    },
+    {
+        "merged": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\withdraw_button.png",
+        "source": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\src\\main\\res\\drawable-xhdpi\\withdraw_button.png"
+    },
+    {
+        "merged": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transfer_buttons.png",
+        "source": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\src\\main\\res\\drawable-xhdpi\\transfer_buttons.png"
+    },
+    {
+        "merged": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\deposit_button.png",
+        "source": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\src\\main\\res\\drawable-xhdpi\\deposit_button.png"
+    },
+    {
+        "merged": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_calendar.png",
+        "source": "G:\\WorkSpaceAndroid_ProjectCaixa\\UsjtArqDeSisAndroid\\app\\src\\main\\res\\drawable-xhdpi\\btn_calendar.png"
+    }
+]

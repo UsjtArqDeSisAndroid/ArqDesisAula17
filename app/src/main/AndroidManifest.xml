@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="project.caixaeletronico">
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/bank_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat">
+        <activity android:name=".activity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.AccountActivity"
+            android:label="@string/account_label">
+            </activity>
+
+        <activity
+            android:name=".activity.ExtractActivity"
+            android:label="@string/extract_label">
+        </activity>
+
+        <activity
+            android:name=".activity.TransferActivity"
+            android:label="@string/transfer_label">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,41 @@
+<resources>
+
+    // Activity.Login
+    <string name="app_name">Caixa Eletronico</string>
+    <string name="acc_message">Conta</string>
+    <string name="agency_message">Agência</string>
+    <string name="pass_message">Senha</string>
+    <string name="access_button">Acessar</string>
+
+    // Activity.Extract
+    <string name="extract_label">Extrato</string>
+    <string name="sevenDays_button">7 Dias</string>
+    <string name="fifteenDays_button">15 Dias</string>
+    <string name="another_period">Outro Período</string>
+    <string name="mask_date_editText">dd/mm/aaaa</string>
+    <string name="from_date_textView">Data Inicial</string>
+    <string name="to_date_textView">Data Final</string>
+    <string name="dateFilter_ok_button">OK</string>
+
+    // Activity.Account
+    <string name="account_label">Account</string>
+    <string name="wellcome_part1_textView">Bem Vindo</string>
+    <string name="wellcome_part2_textView">ao</string>
+    <string name="wellcome_part3_textView">BankLine</string>
+    <string name="withdraw_textView">Saque</string>
+    <string name="extract_textView">Extrato</string>
+    <string name="transfer_textView">Transferencia</string>
+    <string name="deposit_textView">Depósito</string>
+
+
+    // Activity.Transfer
+    <string name="transfer_label">Transferencia</string>
+    <string name="txv_agencyCredit">Agencia</string>
+    <string name="txv_accountCredit">Conta</string>
+    <string name="txv_valueCredit">Valor</string>
+    <string name="edt_txt_agencyCredit">000</string>
+    <string name="edt_txt_accountCredit">000</string>
+    <string name="edt_txt_valueCredit">0.00</string>
+    <string name="btn_makeTransfer">Confirma</string>
+
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_58d493535e7908c5f60ec3ef83be7aed8c71cfb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maael\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_cd292f83ac7d37e77fd2822ee765f1f8330ec215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_22734b1ed6b48769e9bc35b73b807a8f2cbc0b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maael\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\okio-1.6.0_b8afa0388b955f2236cfad7ec4340e61a413782b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maael\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_f03a7335bc2e0d3447fcd9af35b15c06df4c9a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_53a64221b1d34e3b41e5660746764445b570d22d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3bc7eaf9d5efb7f4521269edb2d6c5edf0a661bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d359de82f2ad5e1ff1f50f2eae89334690e45681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maael\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b1b8bf628853eeee453fa0ec30013d57e31dffa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_fb322d064262c896b2204e8a36f3b0c699b757c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maael\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\WorkSpaceAndroid_ProjectCaixa\UsjtArqDeSisAndroid\app\build\intermediates\pre-dexed\debug\gson-2.3.1_ed8de569dc98060d93ad6a3f6acb57ef0b8f8d3c.jar" />
+    </item>
+
+</items>

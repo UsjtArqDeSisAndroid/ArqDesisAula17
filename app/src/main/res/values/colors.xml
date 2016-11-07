@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">	#808080</color>
+    <color name="colorPrimaryDark">#696969</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="Black">#000000</color>
+    <color name="Dim_Gray">#696969</color>
+    <color name="Gray">#808080</color>
+    <color name="Dark_Gray">#A9A9A9</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Light_Grey">#D3D3D3</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="White">#ffffff</color>
+    <color name="Medium_Slate_Blue">#7B68EE</color>
+    <color name="Medium_Purple">#9370DB</color>
+    <color name="Blue_Violet">#8A2BE2</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Dark_Violet">#9400D3</color>
+    <color name="Dark_Orchid">#9932CC</color>
+    <color name="Medium_Orchid">#BA55D3</color>
+    <color name="Purple">#800080</color>
+    <color name="Dark_Magenta">#8B008B</color>
+    <color name="Fuchsia_Magenta">#FF00FF</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="late_Blue">#6A5ACD</color>
+    <color name="Dark_SlateBlue">#483D8B</color>
+    <color name="Midnight_Blue">#191970</color>
+    <color name="Navy">#000080</color>
+    <color name="Dark_Blue">#00008B</color>
+    <color name="Medium_Blue">#0000CD</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Cornflower_Blue">#6495ED</color>
+    <color name="Royal_Blue">#4169E1</color>
+    <color name="Dodger_Blue">#1E90FF</color>
+    <color name="Deep_Sky_Blue">#00BFFF</color>
+    <color name="Light_Sky_Blue">#87CEFA</color>
+    <color name="Sky_Blue">#87CEEB</color>
+    <color name="Light_Blue">#ADD8E6</color>
+    <color name="Steel_Blue">#4682B4</color>
+    <color name="Light_Steel_Blue">#B0C4DE</color>
+    <color name="Slate_Gray">#708090</color>
+    <color name="LightSlate_Gray">#778899</color>
+    <color name="Medium_Violet_Red">#C71585</color>
+    <color name="Deep_Pink">#FF1493</color>
+    <color name="Hot_Pink">#FF69B4</color>
+    <color name="Pale_Violet_Red">#DB7093</color>
+    <color name="Light_Pink">#FFB6C1</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Light_Coral">#F08080</color>
+    <color name="Indian_Red">#CD5C5C</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Maroon">#800000</color>
+    <color name="Dark_Red">#8b0000</color>
+    <color name="Fire_Brick">#B22222</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="Dark_Salmon">#E9967A</color>
+    <color name="Light_Salmon">#FFA07A</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Red">#FF0000</color>
+
+</resources>
